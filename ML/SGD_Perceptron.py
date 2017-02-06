@@ -1,7 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# import tp1ML
 
 #%% Calcul de la fonction hinge et de son gradient
 
